@@ -31,3 +31,5 @@ The Screenshots attached below are testing in Postman API.
 ![Search](https://github.com/SmithaSV/Backend-Server-Windows-App/assets/84849699/f06feb7c-62e8-4f69-aea9-8fb078b67f3c)
 ![ping](https://github.com/SmithaSV/Backend-Server-Windows-App/assets/84849699/63603dae-fadf-4ed4-89f8-c9d1e719d621)
 
+![db json](https://github.com/SmithaSV/Backend-Server-Windows-App/assets/84849699/398451e9-e17f-481b-8994-566443d3c776)
+This is the db.json where the data is stored.
